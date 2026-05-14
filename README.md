@@ -98,20 +98,12 @@ Main libraries:
 
 ---
 
-## 📌 Notes
-
-* This project is part of a healthcare AI / explainable AI research workflow
-* Some datasets are clinical and should be handled with privacy considerations
-* Results are experimental and intended for research purposes
-
----
-
 ## 👤 Author
 
-Zolf (update with your real name if needed)
+Payam Zolfagharian
 
 ---
 
 ## 📄 License
 
-Add a license if required (MIT / private / academic use only)
+Academic use only
